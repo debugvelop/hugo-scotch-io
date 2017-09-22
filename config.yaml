@@ -1,0 +1,4 @@
+baseURL: https://debugvelop.github.io/hugo-scotch-io
+disablePathToLower: true
+languageCode: en-us
+title: Scotch-io
